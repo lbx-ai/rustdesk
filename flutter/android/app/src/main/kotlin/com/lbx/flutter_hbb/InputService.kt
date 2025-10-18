@@ -1,4 +1,4 @@
-package com.carriez.flutter_hbb
+package com.lbx.flutter_hbb
 
 /**
  * Handle remote input and dispatch android gesture
