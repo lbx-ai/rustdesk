@@ -24,7 +24,7 @@
 
     <application
         android:icon="@mipmap/ic_launcher"
-        android:label="好用好用"
+        android:label="嘿~来了来了"
         android:requestLegacyExternalStorage="true"
         android:roundIcon="@mipmap/ic_launcher"
         android:supportsRtl="true">
